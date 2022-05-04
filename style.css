@@ -1,0 +1,12 @@
+body {
+
+    color: #000000;
+  }
+  
+  .jumbotron {
+    background-image: url("https://www.greenqueen.com.hk/wp-content/uploads/2020/04/3d-printed-meat-getty-images-.png");
+    background-position: center; /* Center the image */
+    background-size: cover; /* Resize the background image to cover the entire container */
+    background-repeat: no-repeat;
+    text-align: center;
+  }
